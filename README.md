@@ -2,5 +2,5 @@
 
 Duilib&wxWidgets
 
-# Duilib Fork from 
+# Duilib fork from 
 https://github.com/duilib/duilib
