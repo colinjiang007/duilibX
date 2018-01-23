@@ -3,3 +3,6 @@
 	感谢你的支持。
 
 												duilib开发组
+duilibX 
+	duilibX是一个基于wxWidgets和duilib的免费开源跨平台界面库 遵循bsd协议。
+												ColinJiang
