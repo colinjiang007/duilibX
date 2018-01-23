@@ -1,4 +1,4 @@
 # DuilibX
 
-Duilib&wxWidgets
+Duilib + wxWidgets = DuilibX
 
